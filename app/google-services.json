@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "319031010465",
+    "firebase_url": "https://ibm-hellopush.firebaseio.com",
+    "project_id": "ibm-hellopush",
+    "storage_bucket": "ibm-hellopush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319031010465:android:506f5e0ce79178b9",
+        "android_client_info": {
+          "package_name": "com.ibm.hellopush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319031010465-v83ij4j2t1jm78bghc11qdbn1iff8qnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJvhQh7D0tDh2q_NuSQkr73070RwKyK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
